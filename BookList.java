@@ -4,9 +4,7 @@ public class BookList
 {   
   public static void main(String[] args) 
   { 
-    String[] names;
-    
-    names = new String[40]; 
+    String[] names = new String[40]; 
     
     names[0] = "Indian Horse"; 
     
