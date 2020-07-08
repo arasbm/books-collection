@@ -8,6 +8,7 @@ public class BookList
     
     names[0] = "Indian Horse"; 
     names[1] = "This Book Loves You!";
+	names[2] = "A Brief History Of Time";
     
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
