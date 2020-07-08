@@ -7,6 +7,7 @@ public class BookList
     String[] names = new String[40]; 
     
     names[0] = "Indian Horse"; 
+    names[1] = "This Book Loves You!";
     
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
