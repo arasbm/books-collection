@@ -15,9 +15,10 @@ public class BookList
     names[6] = "The Faith";
     names[7] = "Harry Potter";
     names[8] = "American Gods";
-    name [9] = "Warriors";
-    name [10]= "2 States";
-    name [11] = "Prison to Praise"
+    names[9] = "Warriors";
+    names[10]= "2 States";
+    names[11] = "Prison to Praise";
+    names[12] = "The Lord Of The Rings";
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
     System.out.println(Arrays.toString(names)); 
