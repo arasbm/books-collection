@@ -12,6 +12,7 @@ public class BookList
     names[3] = "Another book";
     names[4] = "The Theory Of Everything";	
     names[5] = "America Before"; 
+    names[6] = "The Faith";
     
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
