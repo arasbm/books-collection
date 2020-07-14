@@ -10,3 +10,4 @@ This is a collection of books for practicing git
 * Chrisrfn
 * Josh Humphrey
 * Jay Patel
+* Nisarg Barot
