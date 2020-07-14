@@ -17,7 +17,6 @@ public class BookList
     names[8] = "American Gods";
     name [9] = "Warriors";
     name [10]= "2 States";
-    name [11] = "Prison to Praise"
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
     System.out.println(Arrays.toString(names)); 
