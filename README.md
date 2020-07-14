@@ -8,3 +8,4 @@ This is a collection of books for practicing git
 * Amir228322
 * Akash Ghosh
 * Chrisrfn
+* Josh Humphrey
