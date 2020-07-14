@@ -9,3 +9,4 @@ This is a collection of books for practicing git
 * Akash Ghosh
 * Chrisrfn
 * Josh Humphrey
+* Jay Patel
