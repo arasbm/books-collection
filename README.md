@@ -11,3 +11,4 @@ This is a collection of books for practicing git
 * Josh Humphrey
 * Jay Patel
 * Nisarg Barot
+* Manpreet Kaur
