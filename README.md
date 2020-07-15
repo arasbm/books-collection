@@ -13,3 +13,4 @@ This is a collection of books for practicing git
 * Nisarg Barot
 * Manpreet Kaur
 * Uyen Pham
+* Sehar Talat
