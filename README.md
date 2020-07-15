@@ -16,3 +16,4 @@ This is a collection of books for practicing git
 * Sehar Talat
 * Jaskirat Kaur
 * Young lim Ko Park
+* Jasleen Bains
