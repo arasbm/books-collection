@@ -17,3 +17,4 @@ This is a collection of books for practicing git
 * Jaskirat Kaur
 * Young lim Ko Park
 * Jasleen Bains
+* Mingxin99
