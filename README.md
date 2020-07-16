@@ -19,3 +19,4 @@ This is a collection of books for practicing git
 * Jasleen Bains
 * Mingxin99
 * Kelsee Carmichael
+* Quang Nguyen
