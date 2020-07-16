@@ -26,3 +26,4 @@ This is a collection of books for practicing git
 * James Nguyen
 * Thien Le
 * Prabikjot Singh
+* Yiting Xiao
