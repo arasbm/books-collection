@@ -18,3 +18,4 @@ This is a collection of books for practicing git
 * Young lim Ko Park
 * Jasleen Bains
 * Mingxin99
+* Kelsee Carmichael
