@@ -29,6 +29,7 @@ public class BookList
     names[20] = "Scar Tissue";
     names[21] = "Killing Commndatore";
     names[22] = "No Longer Human";
+    names[23] = "The Little Prince";
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
     System.out.println(Arrays.toString(names)); 
