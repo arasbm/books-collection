@@ -22,3 +22,4 @@ This is a collection of books for practicing git
 * Quang Nguyen
 * Paola Flores
 * DongyuanLu114
+* Ved Pathak
