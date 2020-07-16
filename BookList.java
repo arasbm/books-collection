@@ -31,6 +31,7 @@ public class BookList
     names[22] = "No Longer Human";
     names[23] = "The Little Prince";
     names[24] = "Harry potter";
+    names[25] = "Batman"
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
     System.out.println(Arrays.toString(names)); 
