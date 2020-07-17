@@ -37,6 +37,12 @@ public class BookList
     names[28]= "Where the Crawdads Sing";
     names[29]= "1984";
     names[30]="Sky Stone";
+    names[30]="Wuthering Heights ";
+    names[31]="Oliver Twist";
+    names[32]="Pride and Prejudice";
+    names[33]="One Hundred Years of Solitude";
+    names[34]="The Kite Runner";
+
     // Add your favourite book here, and make sure to not use an Index that's already been used. 
  
     System.out.println(Arrays.toString(names)); 
